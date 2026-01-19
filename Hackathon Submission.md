@@ -145,7 +145,7 @@ DESCRIPTIVE → DIAGNOSTIC → PREDICTIVE → PRESCRIPTIVE
 
 ### 4.1 Age Distribution Analysis
 
-![Age Distribution](outputs/01_age_distribution.png)
+<img width="3487" height="2106" alt="image" src="https://github.com/user-attachments/assets/7a19008f-9e44-4d98-8f81-5fc9ff87727a" />
 
 **Key Insights:**
 
@@ -159,7 +159,7 @@ DESCRIPTIVE → DIAGNOSTIC → PREDICTIVE → PRESCRIPTIVE
 
 ### 4.2 Monthly Enrollment Trends
 
-![Monthly Enrollment Trends](outputs/02_temporal_trends.png)
+<img width="4161" height="2359" alt="image" src="https://github.com/user-attachments/assets/15fbb05a-d7e5-449b-9f55-dd648c0c6984" />
 
 **Temporal Patterns Identified:**
 
@@ -174,7 +174,7 @@ DESCRIPTIVE → DIAGNOSTIC → PREDICTIVE → PRESCRIPTIVE
 
 ### 4.3 State-Level Enrollment Distribution
 
-![State-Level Enrollment](outputs/03_state_distribution.png)
+<img width="3691" height="2567" alt="image" src="https://github.com/user-attachments/assets/4ebe362d-392f-4c39-b7ef-a69ab923294c" />
 
 **Geographic Disparities:**
 
@@ -188,7 +188,7 @@ DESCRIPTIVE → DIAGNOSTIC → PREDICTIVE → PRESCRIPTIVE
 
 ### 4.4 Age × Geography Interaction
 
-![Age × Geography](outputs/04_age_geography_interaction.png)
+<img width="4772" height="2359" alt="image" src="https://github.com/user-attachments/assets/dbc2f856-4e91-408e-ac7e-94f0245c956c" />
 
 **Cross-Dimensional Findings:**
 
@@ -202,7 +202,7 @@ DESCRIPTIVE → DIAGNOSTIC → PREDICTIVE → PRESCRIPTIVE
 
 ### 4.5 Time × Age Trends
 
-![Time × Age Trends](outputs/05_time_age_trends.png)
+<img width="3545" height="2160" alt="image" src="https://github.com/user-attachments/assets/26bd71dd-4560-4675-9c55-c44f30780a88" />
 
 **Lifecycle Enrollment Dynamics:**
 
@@ -216,7 +216,7 @@ DESCRIPTIVE → DIAGNOSTIC → PREDICTIVE → PRESCRIPTIVE
 
 ### 4.6 District Clustering Framework
 
-![District Clustering](outputs/06_district_clustering.png)
+<img width="1281" height="790" alt="image" src="https://github.com/user-attachments/assets/f31005d5-9386-49af-8487-63a47bf33d6c" />
 
 **K-Means Clustering Results (4 Clusters):**
 
@@ -233,7 +233,7 @@ DESCRIPTIVE → DIAGNOSTIC → PREDICTIVE → PRESCRIPTIVE
 
 ### 4.7 Anomaly Detection Results
 
-![Anomaly Detection](outputs/07_anomaly_detection.png)
+<img width="3522" height="2105" alt="image" src="https://github.com/user-attachments/assets/100d12c9-34cc-496c-aeba-0c4295c28ff1" />
 
 **Isolation Forest Flagged 34 Anomalous Districts:**
 
@@ -250,7 +250,7 @@ DESCRIPTIVE → DIAGNOSTIC → PREDICTIVE → PRESCRIPTIVE
 
 ### 4.8 Priority District Framework
 
-![Priority District Framework](outputs/08_priority_framework.png)
+<img width="2825" height="2033" alt="image" src="https://github.com/user-attachments/assets/07bcac1a-90e1-4ea8-a515-988d913fcb2c" />
 
 **Composite Scoring System:**
 
